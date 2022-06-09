@@ -6,7 +6,7 @@
 <!--About
 -->
 ## About
-Repository created to deliver Unimed-BH and Avanade challenges.
+Repository created to deliver Unimed-BH and Santander Bootcamp Fullstack Developer.
 
 ## Utility
 [devdocs](https://devdocs.io/javascript/)
